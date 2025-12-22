@@ -7,7 +7,7 @@ It provides a client-server model where the server can handle multiple clients, 
 
 ---
 
-## 🚀 Features
+## Features
 - Multi-client support via socket programming
 - Simple GUI (NetBeans project structure)
 - Real-time message exchange between server and clients
@@ -15,13 +15,13 @@ It provides a client-server model where the server can handle multiple clients, 
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - Java JDK 8 or higher
 - NetBeans IDE (or any Java IDE with Maven support)
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/ntainguyenit/ClientServerApp.git
